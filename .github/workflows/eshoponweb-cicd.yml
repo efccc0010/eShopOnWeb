@@ -8,8 +8,8 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-efccc0010
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: ${{ vars.AZURE_SUBSCRIPTION_ID }}
-  WEBAPP-NAME: eshoponweb-webapp-efccc0010
+  SUBSCRIPTION-ID: af4aa20c-8ceb-4eea-a310-859470e16357
+  WEBAPP-NAME: eshoponweb-webapp-prueba1
 
 
 jobs:
